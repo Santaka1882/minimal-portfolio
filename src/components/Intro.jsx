@@ -8,7 +8,12 @@ const Intro = () => {
         </h1>
         <p className='text-base md:text-xl mb-3 font-medium'>Web developer</p>
         <p className='text-sm max-w-xl mb-6 font-bold'>
-            My bio goes here :p
+            Hi! My name is Cristian Buitrago. I love building things 
+            that make the web a better place!
+        </p>
+        <p className='text-sm max-w-xl mb-6 font-bold'>
+            I've experience working with modern frontend tecnologies like React.js, TailwindCSS
+            and some backend tecnologies like Node.js, Express.js and Mysql.
         </p>
 
     </div>
